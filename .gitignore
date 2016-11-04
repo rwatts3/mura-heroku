@@ -1,0 +1,8 @@
+.tags
+.htaccess
+target
+Procfile
+webroot/WEB-INF/lucee
+!webroot/WEB-INF/lucee/lucee-web.xml.cfm
+webroot/WEB-INF/lib
+webroot/WEB-INF/lucee-server
